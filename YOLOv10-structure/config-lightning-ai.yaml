@@ -1,4 +1,4 @@
-path: "/teamspace/studios/this_studio/YOLOv10-structure"
+path: "/teamspace/studios/this_studio/info/YOLOv10-structure"
 train: images/train
 val: images/val
 
