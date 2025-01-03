@@ -1,0 +1,7 @@
+path: "/content/drive/My Drive/cata_ovo/YOLOv10-structure"
+train: images/train
+val: images/val
+
+nc: 1
+names:
+    0: egg
